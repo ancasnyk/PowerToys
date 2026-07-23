@@ -20,7 +20,7 @@
   </PropertyGroup>
 
 ALETHEIAAPI_ALETHEIA_API_KEY=LPJ7KUDIO47593OYPZE7BNCXTZNXBKW4
-SAMSARA_API_KEY=samsara_api_1eesrnUgUhrQFsuLYPsLHlWZRmy5ZK
+
 
   <PropertyGroup Condition="'$(MSBuildProjectExtension)' == '.csproj'">
     <Version>$(Version).0</Version>
